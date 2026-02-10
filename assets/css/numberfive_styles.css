@@ -53,6 +53,10 @@ h1.numberfive-header-title {
 
 h2 {
     margin: var(--standard-padding) auto var(--standard-padding);
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: -1px;
+    text-align: center;
 }
 
 img {
