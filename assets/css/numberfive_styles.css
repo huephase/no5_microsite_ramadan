@@ -10,7 +10,8 @@
 
 body {
     background-color: var(--background-color);
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     padding: var(--body-padding);
     font-family: "Lexend Deca", sans-serif;
